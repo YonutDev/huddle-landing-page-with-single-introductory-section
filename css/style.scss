@@ -40,7 +40,7 @@ p {
     color:hsl(257, 40%, 49%);
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transition: .2s;
-    &:hover,&:focus,&:active {
+    &:hover,&:focus,&:active,&:after {
         background-color: hsl(300, 69%, 71%);
         color: #fff;
         border-color:hsl(300, 69%, 71%);
