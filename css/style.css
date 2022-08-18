@@ -40,7 +40,7 @@ p {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   transition: 0.2s;
 }
-.btn:hover, .btn:focus, .btn:active {
+.btn:hover, .btn:focus, .btn:active, .btn:after {
   background-color: hsl(300deg, 69%, 71%);
   color: #fff;
   border-color: hsl(300deg, 69%, 71%);
